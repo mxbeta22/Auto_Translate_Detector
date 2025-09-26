@@ -6,5 +6,10 @@ namespace Auto_Translate_Detector
         {
             InitializeComponent();
         }
+
+        private void button_test_Click(object sender, EventArgs e)
+        {
+            Close();    
+        }
     }
 }
