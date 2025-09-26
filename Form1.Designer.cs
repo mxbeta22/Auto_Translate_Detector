@@ -33,11 +33,11 @@
             // 
             // button_test
             // 
-            button_test.Location = new Point(257, 130);
+            button_test.Location = new Point(12, 12);
             button_test.Name = "button_test";
-            button_test.Size = new Size(289, 147);
+            button_test.Size = new Size(131, 78);
             button_test.TabIndex = 0;
-            button_test.Text = "test";
+            button_test.Text = "tests";
             button_test.UseVisualStyleBackColor = true;
             button_test.Click += button_test_Click;
             // 
